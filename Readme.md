@@ -30,8 +30,8 @@ The notebook uses a mix of statistical plotting tools to visualize market attrib
 ## 🚀 How to Run the Project
 1.  Clone the repository:
     ```bash
-    git clone https://github.com
-    cd your-repo-name
+    git clone https://github.com/Yash-07-del/EDA-Project.git
+    cd EDA-Project
     ```
 2.  Install the necessary libraries:
     ```bash
